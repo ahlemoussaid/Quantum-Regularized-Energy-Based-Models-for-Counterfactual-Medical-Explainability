@@ -1,4 +1,4 @@
-# Advanced Quantum EBMs for Medical Image Counterfactuals
+# Quantum EBMs for Medical Image Counterfactuals
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-000000?style=for-the-badge)
