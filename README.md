@@ -3,7 +3,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-000000?style=for-the-badge)
 
-A proof-of-concept repository demonstrating how an **8-Qubit Parameterized Quantum Circuit (QCBM)** can bypass classical Markov Chain Monte Carlo (MCMC) mode collapse in high-dimensional (256D) latent spaces. 
+Description
+This repository provides a proof-of-concept for generating trustworthy medical counterfactuals using Quantum Machine Learning. To trust deep learning diagnostics, clinicians require visual explainability. This is achieved through "counterfactuals"—generating a paired image demonstrating what the exact same patient's MRI would look like if the pathology (e.g., Alzheimer's markers or tumors) were digitally removed.
 
 ## 🧠 The Mathematical Bottleneck
 Generating counterfactual medical images (e.g., *"What would this patient's MRI look like if the sepsis markers were removed?"*) relies on traversing the latent space of a generative model. 
