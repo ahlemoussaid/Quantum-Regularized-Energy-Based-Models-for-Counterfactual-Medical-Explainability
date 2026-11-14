@@ -3,7 +3,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-000000?style=for-the-badge)
 
-Description
+
 This repository provides a proof-of-concept for generating trustworthy medical counterfactuals using Quantum Machine Learning. To trust deep learning diagnostics, clinicians require visual explainability. This is achieved through "counterfactuals"—generating a paired image demonstrating what the exact same patient's MRI would look like if the pathology (e.g., Alzheimer's markers or tumors) were digitally removed.
 
 ## 🧠 The Mathematical Bottleneck
